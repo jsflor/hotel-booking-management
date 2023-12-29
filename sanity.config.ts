@@ -18,3 +18,5 @@ export default defineConfig({
     types: schemaTypes,
   },
 });
+
+// TODO: https://www.youtube.com/watch?v=kiCH27qsNL8 1.17.10
